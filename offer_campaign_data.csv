@@ -1,0 +1,6 @@
+CampaignID,StartDate,EndDate,OfferType,TargetSegment,RedemptionRate
+CAMPAIGN1,2023-01-01,2023-01-30,Discount,Youth,0.69
+CAMPAIGN2,2023-01-31,2023-03-01,Discount,Premium,0.71
+CAMPAIGN3,2023-03-02,2023-03-31,Discount,Premium,0.47
+CAMPAIGN4,2023-04-01,2023-04-30,Discount,Youth,0.75
+CAMPAIGN5,2023-05-01,2023-05-30,Data Booster,Mass,0.15
